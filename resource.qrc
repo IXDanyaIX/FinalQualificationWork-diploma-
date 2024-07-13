@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Action_table_img/add.png</file>
+        <file>Action_table_img/delete.png</file>
+        <file>Action_table_img/add_tab.png</file>
+        <file>Action_table_img/next_record.png</file>
+        <file>Action_table_img/previous_record.png</file>
+        <file>Action_table_img/previous.png</file>
+        <file>Action_table_img/next.png</file>
+        <file>Action_table_img/search.png</file>
+        <file>Action_table_img/report.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Action_table_img/search.png</file>
+    </qresource>
+</RCC>
